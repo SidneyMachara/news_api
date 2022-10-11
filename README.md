@@ -8,9 +8,9 @@
 ```
 
 #### Availble API Query options
-  /// max --> maximum number of articles to return, between 1 - 100
-  /// q --> articles containg keywords
-  /// author --> aricle author
+  1. max --> maximum number of articles to return, between 1 - 100
+  2. q --> articles containg keywords
+  3. author --> aricle author
 
 #### Example
 ```
